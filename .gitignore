@@ -58,6 +58,7 @@ artifacts/
 *.tli
 *.tlh
 *.tmp
+*.lib
 *.tmp_proj
 *.log
 *.vspscc
