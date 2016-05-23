@@ -9,6 +9,7 @@ class Object;
 class EntityBase: public Object{
 protected:
 	bool		alive;
+	int OK;
 public:
 	EntityBase();
 	~EntityBase();
